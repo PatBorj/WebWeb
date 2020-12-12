@@ -15,7 +15,7 @@
 
 	.hg1 {
 		position: relative;
-		background-image: url("C:/Users/Win10.DESKTOP-5NSS16L/Desktop/Web/Home2.png");
+		background-image: url("Home2.png");
 		height: 65px;
 		width: 359px;
 		background-repeat: no-repeat;
@@ -43,7 +43,7 @@
 
 	.Login {
 		position: relative;
-		background-image: url("C:/Users/Win10.DESKTOP-5NSS16L/Desktop/Web/Login.png");
+		background-image: url("Login.png");
 		height: 137px;
 		width: 138px;
 		background-repeat: no-repeat;
@@ -53,7 +53,7 @@
 
 	.Home {
 		position: relative;
-		background-image: url("C:/Users/Win10.DESKTOP-5NSS16L/Desktop/Web/Home.jpg");
+		background-image: url("Home.jpg");
 		height: 265px;
 		width: 103px;
 		background-repeat: no-repeat;
@@ -164,6 +164,8 @@
 <button class="heightsearch type="search"> Search </button>
 
 <div class="Login">  </div>
+		  
+
 
 <div class="Bluehead">  
 	<ul class="inlineList">
@@ -178,7 +180,7 @@
 <div class="Border"> 
 
 	<div class="Border1"> 
-		<img src="C:/Users/Win10.DESKTOP-5NSS16L/Desktop/Web/News1.jpg" alt="News1" width="550" height="300"><br><br>
+		<img src="News1.jpg" alt="News1" width="550" height="300"><br><br>
 		<p><h3 class="adj">Owners of accommodation establishment in Ilocos Norte are hopeful for the 
 		success of the reopening of tourism in the province, today.</h3></a></p>
 	</div>
@@ -186,14 +188,14 @@
 	<br>
 
 	<div class="Border1"> 
-		<img src="C:/Users/Win10.DESKTOP-5NSS16L/Desktop/Web/News2.jpg" alt="News2" width="550" height="300"><br><br>
+		<img src="News2.jpg" alt="News2" width="550" height="300"><br><br>
 		<p><h3>The "Mercato ni Nanay Ces" is set to roll out again on October 17 at the Arte Luna Gallery in Paoay.</h3></a></p>
 	</div>
 
 	<br>
 
 	<div class="Border1"> 
-		<img src="C:/Users/Win10.DESKTOP-5NSS16L/Desktop/Web/News3.jpg" alt="News3" width="550" height="300"><br><br>
+		<img src="News3.jpg" alt="News3" width="550" height="300"><br><br>
 		<p><h4 class="adj">To propel the recovery of the tourism sector in the country, the Provincial Government of Ilocos Norte (PGIN),
 		through the Ilocos Norte Tourism Office (INTO) is set to resume its operations after almost a seven-month of community
 		quarantine due to the COVID-19 pandemic,  by opening its gateway for Luzon tourists starting tomorrow, October 15.
