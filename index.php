@@ -1,5 +1,6 @@
+  
 <?php
 
-include_once("ProvincialNews");
+include_once("ProvincialNews.html");
 
->
+?>
